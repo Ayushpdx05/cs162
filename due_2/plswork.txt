@@ -1,0 +1,2 @@
+Spell Name: Bubble_Beam
+Spell Effect: bubble
